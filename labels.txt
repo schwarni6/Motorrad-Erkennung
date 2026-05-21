@@ -1,4 +1,0 @@
-0 Tshirt
-1 Schuhe
-2 Trinkflasche
-3 Sonstiges
