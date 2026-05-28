@@ -1,6 +1,9 @@
-opencv-python
+streamlit
+ultralytics
 torch
 torchvision
-Pillow
-ultralytics
 transformers
+pillow
+numpy<2
+safetensors
+huggingface_hub
