@@ -1,7 +1,9 @@
-streamlit==1.35.0
-ultralytics==8.2.48
-torch==2.3.0
-torchvision==0.18.0
-transformers==4.41.2
-pillow==10.3.0
-numpy==1.26.4
+streamlit
+ultralytics
+torch
+torchvision
+transformers
+pillow
+numpy<2
+safetensors
+huggingface_hub
