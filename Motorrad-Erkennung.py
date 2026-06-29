@@ -8,7 +8,7 @@ st.title("🏍️ Motorrad-Erkennung mit YOLOv8 (lokales ONNX-Modell)")
 
 @st.cache_resource
 def load_model():
-    return AutoBackend("yolov8n.onnx", device="cpu")  # lokale Datei!
+    return AutoBackend("yolov8n.onnx", device="cpu")
 
 model = load_model()
 
